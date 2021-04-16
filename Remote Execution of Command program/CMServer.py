@@ -45,7 +45,7 @@ def Shell():
 
 def Server():
 
-    global s
+    	global s
 	global ip
 	global target        
 
